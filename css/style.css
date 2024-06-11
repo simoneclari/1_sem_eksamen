@@ -557,6 +557,7 @@ dt {
 @media(max-width: 400px) {
     .sidebar{
         width: 100%;
+        background-color: #fcf9efa3;
     }
 }
 
