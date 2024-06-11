@@ -233,7 +233,7 @@ main ul li a {
     transition: 0.3s;
 }
 
-.tema a:visited {
+.indhold a:visited {
     color: inherit;
     text-decoration: none;
   }
